@@ -12,7 +12,7 @@ tokemBot: adicione o tokem do seu bot.
 
 # Criando um bot no telegram, e obtendo o seu ID:
 Para criar um bot no telegram, inicie uma converssa com o bot @BotFather.
-envie /newbot, e depois mande o nome que você quizer para o bot, e um username.
+envie "/newbot", e depois mande o nome que você quizer para o bot, e um username.
 
 Para obter o seu id pessoal, inicie uma converssa com o bot @get_id_bot
-envie /my_id e ele te retornarar o seu ID.
+envie "/my_id" e ele te retornarar o seu ID.
