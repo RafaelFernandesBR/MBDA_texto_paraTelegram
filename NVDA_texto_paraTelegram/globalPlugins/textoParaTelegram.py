@@ -5,8 +5,8 @@ import urllib.parse
 import api
 import json
 
-chatId='885615688'
-tokemBot='1820018763:AAHTTC5m_AvjaGoo8_sinIfTZ0HHRW3HK2c'
+chatId='ChatId'
+tokemBot='TokemBot'
 
 def sendTelegram(text):
 		text=urllib.parse.quote(text)
