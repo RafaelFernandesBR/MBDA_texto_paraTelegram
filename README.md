@@ -1,6 +1,7 @@
 # NVDA_texto_paraTelegram
 Este addon envia o texto que estiver atualmente na área de transferência para um bot no telegram.
 
+Basta pressionar as teclas NVDA+0 e o texto irá para o bot.
 # Como usar:
 Por em quanto, o addon não tem uma opção de adicionar os dados de forma fácil.
 Qualquer ajuda para poder melhorar isso, será bem vinda.
